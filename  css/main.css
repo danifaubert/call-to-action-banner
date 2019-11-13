@@ -1,0 +1,57 @@
+html {
+  box-sizing: border-box;
+  font-family: "Open Sans", sans-serif;
+  line-height: 1.5;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+}
+
+
+.img-flex {
+  display: block;
+  width: 100%;
+}
+
+.banner {
+  position: relative;
+  border: 1px solid #ccc;
+  border-radius: 0 6px 6px;
+  max-height: 500px;
+  overflow: hidden;
+  m
+}
+
+h2 {
+  line-height: 1.4;
+  display: inline;
+  font-size: 4rem;
+  font-weight: bold;
+  background-color: rgba(0, 0, 0, .5);
+  color: #fff;
+  left: 1rem;
+  top: 1rem;
+  text-align: left;
+}
+
+.body {
+  max-width: 50em;
+  bottom: -.5rem;
+  position: absolute;
+  left: 30px;
+  top: 200px;
+  transform: translate(-30px, -200px);
+
+}
+
+p {
+  margin-top: 1rem;
+  font-style: italic;
+  font-size: 2rem;
+  margin-bottom: 0;
+}
