@@ -17,9 +17,7 @@ body {
   width: 100%;
 }
 
-.Roboto {
-  display: inline-block;
-  margin-top: 0rem;
+.roboto {
   margin-left: 1rem;
   position: absolute;
   width: 31.5%;
@@ -42,7 +40,6 @@ h2 {
   font-weight: bold;
   color: #000;
   margin-left: 1rem;
-  margin-top: 1rem;
   text-align: left;
   font-family: "Roboto Condensed", sans-serif;
 }
